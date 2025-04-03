@@ -1,0 +1,5 @@
+{
+  "itemGroup.njb": "Example Mod Tab",
+  "block.njb.example_block": "Example Block",
+  "item.njb.example_item": "Example Item"
+}
